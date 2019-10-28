@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = { "ua.lviv.footgo", "com.github.javafaker" })
+@ComponentScan(basePackages = { "me.wisehands.storage"})
 
 public class FootGoApplication extends SpringBootServletInitializer {
 
