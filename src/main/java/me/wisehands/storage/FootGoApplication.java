@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = { "me.wisehands.storage"})
+@ComponentScan(basePackages = {"me.wisehands.storage"})
 
 public class FootGoApplication extends SpringBootServletInitializer {
 
